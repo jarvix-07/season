@@ -1,0 +1,21 @@
+h1{
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    width: 550px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: xx-large;
+    color: white;
+}
+img{
+    height: 250px;
+    width: 250px;
+    border-radius:200px;
+    border: 10px;
+    margin-left: 75px;
+    margin-top: 170px;
+}
+*{
+    background: black;
+}
